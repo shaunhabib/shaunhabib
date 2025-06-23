@@ -1,19 +1,58 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20There&fontSize=90" />
-### Hi there 👋
+# 👋 Hi, I'm Shaun Habib
 
-* 👂 My name is Shaun Habib
-* 😎 I'm a Software Engineer of .Net (C#)
-* 😎 I'm a problem solver in LeetCode, HackerRank, LightOJ etc 
-* 🔭 I’m currently working on an ERP software 
-* 🌱 I’m currently learning advanced features of .Net and C#
-* 🤝 I’m looking to collaborate on any topic related to programing
-* <a href="https://www.linkedin.com/in/shaun-habib-a167a5226/">My LinkedIn profile </a>
-* <a href="https://leetcode.com/habibshaun124/">My LeetCode profile </a>
-* <a href="https://www.hackerrank.com/shayanhabib518">My HackerRank profile </a>
-* <a href="https://gitlab.com/habibshaun124">My GitLab profile </a>
-* Follow me in instagram-- 
-  <a href="https://www.instagram.com/s_h_a_y_a_n_a_h_m_e_d/">
-    <img height="30" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-  </a>
-  
-  ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Thank%20You&fontSize=50)
+## 🚀 Software Engineer | .NET Specialist | Full-Stack Developer
+
+Welcome to my GitHub profile! I'm a passionate developer based in Bangladesh, with expertise in building scalable, enterprise-grade web applications using the Microsoft technology stack.
+
+---
+
+### 🔧 Tech Stack
+
+- 💻 Backend: **.NET Core / .NET 8**, C#, Web API, gRPC, SignalR
+- 🌐 Frontend: React.js, Tailwind CSS, DevExpress
+- 🗄️ Database: SQL Server, MySQL, Redis, MongoDB
+- ☁️ DevOps: GitHub Actions, IIS, MinIO
+- 📊 Monitoring: Grafana, Prometheus, OpenTelemetry
+- 🔐 Auth: JWT, Role/Claim/Policy-based Authorization
+- 🐳 Tools: Git, GitHub, GitLab, Docker (minimal use)
+
+---
+
+### 📈 My Focus Areas
+- Building **supply chain systems** and **contactless payment solutions**
+- Designing clean, RESTful and gRPC-based APIs
+- Architecting backend services with performance and maintainability in mind
+- Integrating modern DevOps, logging, and monitoring into production-ready apps
+
+---
+
+### 📂 Featured Projects
+
+- 🔄 [Redis Implementation Demo](https://github.com/shaunhabib/Redis-implementation-demo)  
+  CRUD with RedisJSON and NReJSON in .NET 8 Web API
+
+- 📦 [MinIO Integration](https://github.com/shaunhabib/minio-dotnet-integration)  
+  Working with MinIO S3-compatible object storage in .NET Core
+
+
+---
+
+### 🌱 Currently Learning
+
+- Clean Architecture & DDD principles  
+- Advanced gRPC streaming & GraphQL with HotChocolate  
+- Kubernetes & distributed tracing with OpenTelemetry
+
+---
+
+### 📫 Connect With Me
+
+- 🌐 [LinkedIn](https://linkedin.com/in/shaunhabib)
+- ✉️ habibshaun124@gmail.com
+- 💻 Portfolio: *coming soon*
+
+---
+
+> “The best way to predict the future is to invent it.” — Alan Kay
+
+Thanks for stopping by! Feel free to explore my work and reach out ✨
